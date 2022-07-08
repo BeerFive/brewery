@@ -168,7 +168,7 @@ div.closeNotesDialog {
     width: 11px;
     height: 10px;
     object-fit: contain;
-    background: url(../../../resources/images/close_x.svg) no-repeat center center, linear-gradient(transparent, transparent);
+    background: url(../../../../templates/resources/images/close_x.svg) no-repeat center center, linear-gradient(transparent, transparent);
     margin-left: auto;
     cursor: pointer;
 }
@@ -180,7 +180,7 @@ div.resizeNotesDialog {
     width: 11px;
     height: 10px;
     object-fit: contain;
-    background: url(../../../resources/images/resize.svg) no-repeat center center, linear-gradient(transparent, transparent);
+    background: url(../../../../templates/resources/images/resize.svg) no-repeat center center, linear-gradient(transparent, transparent);
     margin-left: auto;
     cursor: nwse-resize;
 }
